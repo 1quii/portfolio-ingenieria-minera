@@ -210,8 +210,8 @@ Cada proyecto nuevo debe representar una mejora respecto al anterior.
 ## 📫 Contacto
 
 **LinkedIn:** [Añadir enlace]  
-**GitHub:** [Añadir enlace]  
-**Email:** [Añadir email profesional]
+**GitHub:** [https://github.com/1quii]  
+**Email:** [diego187hv@gmail.com]
 
 ---
 
